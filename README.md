@@ -32,6 +32,7 @@ Update the application code in
 
 Then add/commit/push to gitlab
 
+
 ```
 git status # to see your changes
 ```
@@ -77,3 +78,5 @@ too early for devops
 
 
 why are seeping on a sit
+
+we aare for it 
