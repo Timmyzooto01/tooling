@@ -80,3 +80,4 @@ want wrong now
 
 why this 
 
+we connected everything togheter 
